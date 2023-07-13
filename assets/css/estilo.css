@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
 :root {
-    --amarillo-exito: #967e15;
+    --amarillo-exito: #FFE800;
     --blanco: #FFF;
     --naranja: #f27b2d;
 }
@@ -55,6 +55,7 @@ body {
 
 .barraSecundaria {
     padding-top: 5px;
+    margin-top: 65px;
 }
 
 .btnSegundaBarra {
